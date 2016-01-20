@@ -1,3 +1,5 @@
+# Question 4: Find the Primes
+
 require 'prime'
 
 puts "Give me a number greater than 1: "

@@ -1,3 +1,5 @@
+# Question 2: Spell Out a Name/Word
+
 puts "What's your name?"
 
 name = gets.chomp.upcase

@@ -1,3 +1,5 @@
+# Question 1: Is it Divisible?
+
 puts "Give me two numbers..."
 print "A larger number: "
 x = gets.chomp.to_i

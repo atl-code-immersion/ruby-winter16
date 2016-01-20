@@ -1,3 +1,5 @@
+# Question 3: Pig Latin Translator
+
 print "Give me a word: "
 word = gets.chomp.downcase
 
